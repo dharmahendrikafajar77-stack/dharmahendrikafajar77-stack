@@ -49,10 +49,6 @@ const dharma = {
 
 ## 🐍 Contribution Snake Animation
 
-<!-- 
-Note: The snake animation will automatically generate once you commit and push 
-the .github/workflows/snake.yml workflow to your repository!
--->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dharmahendrikafajar77-stack/dharmahendrikafajar77-stack/output/github-contribution-grid-snake-dark.svg">
@@ -66,7 +62,9 @@ the .github/workflows/snake.yml workflow to your repository!
 ## 🏆 GitHub 3D Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dharmahendrikafajar77-stack&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dharmahendrikafajar77-stack&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
@@ -74,14 +72,20 @@ the .github/workflows/snake.yml workflow to your repository!
 ## 📊 GitHub Stats & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharmahendrikafajar77-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="stats card" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmahendrikafajar77-stack&theme=tokyonight&hide_border=true" height="175" alt="streak card" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=dharmahendrikafajar77-stack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=dharmahendrikafajar77-stack&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmahendrikafajar77-stack&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="top languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmahendrikafajar77-stack&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  </a>
 </div>
 
 ---
