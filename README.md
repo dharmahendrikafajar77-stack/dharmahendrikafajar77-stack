@@ -1,53 +1,58 @@
-<!-- Dynamic Waving Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=220&section=header&text=Hi%20There,%20I'm%20Dharma!%20%F0%9F%90%8B&fontSize=40&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=220&section=header&text=Hi%20There,%20I'm%20Dharma!%20%E2%9A%A1&fontSize=40&animation=twinkling&fontColor=ffffff" width="100%" />
 </div>
 
-<!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Passionate+about+Open+Source+%F0%9F%9A%80;Building+Cool+%26+Modern+Web+Apps+%E2%9C%A8;Always+Learning+New+Technologies+%F0%9F%93%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00599C&center=true&vCenter=true&width=800&lines=Power+System+Analysis+Engineer+%E2%9A%A1;Electronics+%26+Microcontroller+Developer+%F0%9F%94%8B;IoT+(Internet+of+Things)+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- Intro Badges & Quick Stats -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-FullStack%20Development-blue?style=for-the-badge&logo=codefactor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Domain-Power%20Systems-00599C?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware-IoT%20%26%20Microcontrollers-FF0000?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ---
 
 ## ⚡ About Me
 
-```javascript
-const dharma = {
-    code: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
-    technologies: {
-        frontend: ["React", "Next.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Python"],
-        tools: ["Git", "VSCode", "Docker"]
-    },
-    currentFocus: "Building Interactive & Modern Applications 🚀",
-    funFact: "I love adding sleek animations and dynamic UI! ✨"
+```c
+#include <stdio.h>
+
+struct Engineer {
+    char name[20];
+    char domains[4][50];
+    char languages[4][20];
 };
+
+int main() {
+    struct Engineer dharma = {
+        "Dharma",
+        {"Power System Analysis", "Electronics", "Microcontrollers", "IoT"},
+        {"C", "C++", "Python", "MATLAB"}
+    };
+    
+    printf("Building smart hardware, efficient power systems, and interconnected devices.\n");
+    return 0;
+}
 ```
 
 ---
 
-## 🚀 Animated Tech Stack
+## 🔧 Classic Languages & Hardware Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,git,github,docker,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,raspberrypi,linux,git,github&theme=dark" />
   </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 GitHub Contributions
 
 <div align="center">
   <picture>
@@ -57,40 +62,6 @@ const dharma = {
   </picture>
 </div>
 
----
-
-## 🏆 GitHub 3D Trophies
-
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dharmahendrikafajar77-stack&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Stats & Streak
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dharmahendrikafajar77-stack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=dharmahendrikafajar77-stack&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmahendrikafajar77-stack&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-  </a>
-</div>
-
----
-
-<!-- Animated Footer Waving Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer" width="100%" />
 </div>
