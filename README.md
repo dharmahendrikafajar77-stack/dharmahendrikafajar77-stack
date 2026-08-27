@@ -26,13 +26,15 @@ struct Engineer {
     char name[20];
     char domains[4][50];
     char languages[4][20];
+    char software[5][20];
 };
 
 int main() {
     struct Engineer dharma = {
         "Dharma",
         {"Power System Analysis", "Electronics", "Microcontrollers", "IoT"},
-        {"C", "C++", "Python", "MATLAB"}
+        {"C", "C++", "Python", "MATLAB"},
+        {"PSIM", "ETAP", "DIgSILENT", "Proteus", "KiCad"}
     };
     
     printf("Building smart hardware, efficient power systems, and interconnected devices.\n");
@@ -48,6 +50,14 @@ int main() {
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,raspberrypi,linux,git,github&theme=dark" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PSIM-D11A2A?style=for-the-badge&logoColor=white" alt="PSIM" />
+  <img src="https://img.shields.io/badge/ETAP-00599C?style=for-the-badge&logoColor=white" alt="ETAP" />
+  <img src="https://img.shields.io/badge/DIgSILENT-0B2F5C?style=for-the-badge&logoColor=white" alt="DIgSILENT" />
+  <img src="https://img.shields.io/badge/Proteus-2C5E8F?style=for-the-badge&logoColor=white" alt="Proteus" />
+  <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
 </p>
 
 ---
